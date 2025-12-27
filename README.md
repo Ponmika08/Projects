@@ -16,8 +16,8 @@ AI-based software simulation for soldier and border safety monitoring.
 - AI Simulation
 - Lovable platform
 
-## Demo Video
-📽️ assets/demo-video.mp4
+## 🎥 Demo Video
+📽️ [Watch demo](projects
 
 ## How to Use
 Open the live demo link and interact with the dashboard.
